@@ -22,12 +22,8 @@ The **HTTP-5126** project is designed to provide a scalable and efficient backen
 
 Welcome to the **HTTP-5126** project repository! This repository contains all the source code, documentation, and resources for building and developing the **HTTP-5126** web application. 
 
-## 🔗 Project Link
 
-For more details, please visit the project on GitHub:  
-[GitHub Repository](https://github.com/RaginiS19/http-5126.git)
-
-## 🖼️ Project Screenshot
+## 🖼️ Project
 
 ![Database and Design](Images/database-diagram.png)
 
